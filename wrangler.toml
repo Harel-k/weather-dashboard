@@ -1,4 +1,8 @@
 name = "weather-app"
-compatibility_date = "2025-04-03"
-main = "index.js"
+type = "webpack"
+account_id = "your-account-id-here"
+compatibility_date = "2025-04-04"
 
+[site]
+bucket = "./public"
+entry-point = "."
